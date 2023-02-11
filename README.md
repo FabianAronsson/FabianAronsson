@@ -1,5 +1,13 @@
 # Hi there 👋 
-## My name is Fabian Aronsson. I am currently studying at IT-Högskolan for .NET-Development.
+* 🙍‍♂️My name is Fabian Aronsson. 
+
+* 👀 I like coding, Jiu-Jitsu and games, among other things.
+
+* 💼 Actively looking for internships (LIA)
+
+* 📮 How to reach me:
+* Mail: fabian.aronsson@iths.se
+* Linkedin: https://www.linkedin.com/in/fabianaronsson
 
 ---
 
@@ -18,7 +26,7 @@
 [gy]: https://github.com/FabianAronsson/GYARB
 
 I also am proficient in:
-* [![Skills](https://skillicons.dev/icons?i=java,mysql,sqlite)]()  and T-SQL
+[![Skills](https://skillicons.dev/icons?i=java,mysql,sqlite)]()  and T-SQL
 
 ---
 
