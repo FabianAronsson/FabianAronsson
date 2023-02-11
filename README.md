@@ -5,10 +5,6 @@
 
 * 💼 Actively looking for internships (LIA)
 
-* 📮 How to reach me:
-* Mail: fabian.aronsson@iths.se
-* Linkedin: https://www.linkedin.com/in/fabianaronsson
-
 ---
 
 ## GitHub portfolio :briefcase:
@@ -31,4 +27,5 @@ I also am proficient in:
 ---
 
 ## Contact me :iphone:
-- [LinkedIn](https://www.linkedin.com/in/fabianaronsson/)
+* Mail: fabian.aronsson@iths.se
+* Linkedin: https://www.linkedin.com/in/fabianaronsson
