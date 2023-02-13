@@ -27,5 +27,13 @@ I also am proficient in:
 ---
 
 ## Contact me :iphone:
-* Mail: fabian.aronsson@iths.se
-* Linkedin: https://www.linkedin.com/in/fabianaronsson
+<a href="mailto:fabian.aronsson@iths.se">
+      <img src="https://img.shields.io/badge/Mail-fff?style=for-the-badge&logo=gmail" 
+           alt="Fabian Aronsson's Mail"/>
+</a>
+<a href="https://www.linkedin.com/in/fabianaronsson">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+           alt="Fabian Aronsson's LinkedIn profile"/>
+</a>
+
+
