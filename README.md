@@ -31,7 +31,7 @@ I also am proficient in:
       <img src="https://img.shields.io/badge/Mail-fff?style=for-the-badge&logo=gmail" 
            alt="Fabian Aronsson's Mail"/>
 </a>
-<a href="https://www.linkedin.com/in/fabianaronsson" target="_blank">
+<a href="https://www.linkedin.com/in/fabianaronsson" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
            alt="Fabian Aronsson's LinkedIn profile"/>
 </a>
