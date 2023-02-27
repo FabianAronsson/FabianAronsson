@@ -26,6 +26,13 @@ I also am proficient in:
 
 ---
 
+## Codewars
+<a href="https://www.codewars.com/users/FabianAronsson">
+      <img src="https://www.codewars.com/users/FabianAronsson/badges/large" 
+           alt="Fabian Aronsson's Mail"/>
+</a>
+
+
 ## Contact me :iphone:
 <a href="mailto:fabian.aronsson@iths.se">
       <img src="https://img.shields.io/badge/Mail-fff?style=for-the-badge&logo=gmail" 
