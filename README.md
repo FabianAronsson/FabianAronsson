@@ -3,8 +3,6 @@
 
 * 👀 I like coding, Jiu-Jitsu and games, among other things.
 
-* 💼 Actively looking for internships (LIA)
-
 ---
 
 ## GitHub portfolio :briefcase:
