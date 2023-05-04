@@ -11,7 +11,7 @@
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
 | [Chess Simulator][cs]          | A simulator where you are able to play chess                  | [![Chess](https://skillicons.dev/icons?i=dotnet,cs)](https://github.com/FabianAronsson/Chess-GUI)                          |
 | [Concrete Indium][ci]          | A real time chatroom                                          | [![Concrete Indium](https://skillicons.dev/icons?i=js,ts,vue,mongodb,sass,nodejs)](https://github.com/FabianAronsson/Concrete-Indium)                           |
-| [Games Corner][gc]        | An ecommerce website for video games and the like                 | [![Games Corner](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://github.com/FabianAronsson/GamesCorner)                           |
+| [Games Corner][gc]        | An ecommerce website built in Blazor and ASP.NET Core                 | [![Games Corner](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://github.com/FabianAronsson/GamesCorner)                           |
 | [GYARB][gy]                    | A modernization of a local company's website                  | [![Gyarb](https://skillicons.dev/icons?i=html,css,js,mongodb,bootstrap,nodejs)](https://github.com/FabianAronsson/GYARB)                           |
 
 [cs]: https://github.com/FabianAronsson/Chess-GUI
