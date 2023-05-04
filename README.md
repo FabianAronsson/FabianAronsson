@@ -11,12 +11,12 @@
 | ------------------------------ | ------------------------------------------------------------- | ------------------------------ |
 | [Chess Simulator][cs]          | A simulator where you are able to play chess                  | [![Chess](https://skillicons.dev/icons?i=dotnet,cs)](https://github.com/FabianAronsson/Chess-GUI)                          |
 | [Concrete Indium][ci]          | A real time chatroom                                          | [![Concrete Indium](https://skillicons.dev/icons?i=js,ts,vue,mongodb,sass,nodejs)](https://github.com/FabianAronsson/Concrete-Indium)                           |
-| [Ecommerce Webpage][ew]        | An ecommerce website for a fictional company                  | [![Ecommerce](https://skillicons.dev/icons?i=js,ts,angular,mongodb,bootstrap,nodejs,pug)](https://github.com/FabianAronsson/Ecommerce-Webpage)                           |
+| [Games Corner][gc]        | An ecommerce website for video games and the like                 | [![Games Corner](https://skillicons.dev/icons?i=dotnet,cs,azure)](https://github.com/FabianAronsson/GamesCorner)                           |
 | [GYARB][gy]                    | A modernization of a local company's website                  | [![Gyarb](https://skillicons.dev/icons?i=html,css,js,mongodb,bootstrap,nodejs)](https://github.com/FabianAronsson/GYARB)                           |
 
 [cs]: https://github.com/FabianAronsson/Chess-GUI
 [ci]: https://github.com/FabianAronsson/Concrete-Indium
-[ew]: https://github.com/FabianAronsson/Ecommerce-Webpage
+[gc]: https://github.com/FabianAronsson/GamesCorner
 [gy]: https://github.com/FabianAronsson/GYARB
 
 I also am proficient in:
